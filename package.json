@@ -1,6 +1,7 @@
 {
   "name": "react-hook-todo",
   "version": "0.1.0",
+  "homepage": "https://karabassbarabass.github.io/react-hooks-todo-publick/",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
